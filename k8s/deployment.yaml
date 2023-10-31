@@ -21,7 +21,8 @@ spec:
         - name: PORT
           value: "8080"
         - name: Site
-          value: "https://github.com/Lai-Monkey/HTML-ALL/raw/main/6.21_AOS_slick-master.zip"
+          value: "https://github.com/happyevero/Html/raw/main/BrainStorm-html.zip
+"
         - name: Vless_UUID
           value: "ffa13eea-0d60-4339-a387-d364eae22215"
         - name: Vless_Path
